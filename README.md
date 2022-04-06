@@ -1,7 +1,7 @@
 # Patika.dev-Week_2
 
 ## Info
-This project is made for Patika.dev - Inavitas & Başarsoft React Native Bootcamp
+This project is made for Patika.dev - Inavitas & Başarsoft React Native Bootcamp.
 
 A product list project. You can add products and sort them by prices or added dates.
 
